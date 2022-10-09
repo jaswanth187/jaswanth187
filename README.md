@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQH9i0oGzthtSw/profile-displaybackgroundimage-shrink_350_1400/0/1663173187946?e=1671062400&v=beta&t=xahjksW7fTEvygQ7aGXne6FXpK-1E_BDV4lAxIQhMSw)
+![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQH9i0oGzthtSw/profile-displaybackgroundimage-shrink_350_1400/0/1663173187946?e=1671062400&v=beta&t=xahjksW7fTEvygQ7aGXne6FXpK-1E_BDV4lAxIQhMSw)
 <h1 align="center">Hi 👋, I'm Chunduri Jaswanth</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
