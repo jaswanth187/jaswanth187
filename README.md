@@ -1,3 +1,4 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQH9i0oGzthtSw/profile-displaybackgroundimage-shrink_350_1400/0/1663173187946?e=1671062400&v=beta&t=xahjksW7fTEvygQ7aGXne6FXpK-1E_BDV4lAxIQhMSw)
 <h1 align="center">Hi 👋, I'm Chunduri Jaswanth</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
@@ -6,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/jaswanth73" target="blank"><img src="https://img.shields.io/twitter/follow/jaswanth73?logo=twitter&style=for-the-badge" alt="jaswanth73" /></a> </p>
 
 - 🔭 I’m currently working on **Trading bot with sentiment analysis**
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQH9i0oGzthtSw/profile-displaybackgroundimage-shrink_350_1400/0/1663173187946?e=1671062400&v=beta&t=xahjksW7fTEvygQ7aGXne6FXpK-1E_BDV4lAxIQhMSw)
+
 - 🌱 I’m currently learning **Open Source Projects**
 
 - 📫 How to reach me **chjaswanth321@gmail.com**
