@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Open Source Projects**
 
 - 📫 How to reach me **chjaswanth321@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaswanth73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaswanth73" height="30" width="40" /></a>
