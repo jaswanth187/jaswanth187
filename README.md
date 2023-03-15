@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaswanth73" target="blank"><img src="https://img.shields.io/twitter/follow/jaswanth73?logo=twitter&style=for-the-badge" alt="jaswanth73" /></a> </p>
 
-- 🔭 I’m currently working on **Trading bot with sentiment analysis**
+- 🔭 I’m currently working on **Personal Project**
 
 - 🌱 I’m currently learning **Open Source Projects**
 
