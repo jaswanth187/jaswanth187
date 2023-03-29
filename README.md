@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chunduri Jaswanth</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+Hi there! I'm Jaswanth, a student with a passion for tech and software development. I love exploring new technologies and building software that solves real-world problems. In my free time, you can usually find me tinkering with code or learning about the latest advancements in the tech industry. I'm particularly interested in web development and AI, and I'm always looking for new projects to work on. Currently, I'm working on personal projects, and I'm excited to see where my journey in tech will take me next.Feel free to reach out to me if you have any questions or just want to chat about tech - I'm always eager to connect with fellow enthusiasts!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth187&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth187" /> </p>
 
