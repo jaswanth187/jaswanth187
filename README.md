@@ -6,13 +6,11 @@ Hi there! I'm Jaswanth, a recent graduate looking for exciting opportunities in 
 
 - 🔭 I’m currently working on **my own projects**
 
-- 🌱 I’m currently learning **Next Js**
-
-- 🤝 I’m looking for help with **Open source**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **chjaswanth321@gmail.com**
+- 📫 How to reach me **chundurijaswanth3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
